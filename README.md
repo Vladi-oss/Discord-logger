@@ -1,4 +1,4 @@
-## This discord bot log every messages and attachments in server 
+# This discord bot log every messages and attachments in server 
 
 Bot save Media to the "attachments" folder.You can change folder name in code.
 
@@ -6,7 +6,7 @@ Logs saves in the "log.txt" file. Like with Media you can change name in code.
 
 ---
 
-# How to install?
+## How to install?
 
 - First you need to install libraries use: `pip install discord.py`.
   
