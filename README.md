@@ -30,6 +30,6 @@ Logs saves in the "log.txt" file. Like with Media you can change name in code.
   
 - Go to the `Bot` in the left side. And click reset Token.
   
-- Copy Token and paste it like.
+- Copy Token and copy it.
   
 - **⚠️!!!ATTENTION!!!⚠️** For security purposes, tokens can only be viewed once, when created. If you forgot or lost access to your token, please regenerate a new one.
