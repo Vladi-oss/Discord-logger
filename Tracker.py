@@ -34,4 +34,4 @@ async def on_message(message):
         await attachment.save(download_path)
         print(f"Downloaded file saved at: {download_path}")
 
-client.run('MTAyNzk3NDMzMTIzNTU2OTc1NA.G9wT-V.zlPWCvzQ-kUNAJWPxf-HtPGUbZZkcZ0kZqoiMw')
+client.run('YOUR TOKEN')
