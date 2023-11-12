@@ -6,7 +6,7 @@ Logs saves in the "log.txt" file. Like with Media you can change name in code.
 
 ---
 
-# How to install?
+### How to install?
 
 - First you need to install libraries use: `pip install discord.py`.
   
