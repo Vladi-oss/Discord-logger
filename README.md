@@ -22,7 +22,7 @@ Logs saves in the "log.txt" file. Like with Media you can change name in code.
 
 - Add name and click `Create`
   
-- Click on `OAuth2` ->`URL Generator` and chose `bot` in scopes
+- Click on `OAuth2` ->`Default Authorization Link` and chose `bot` in scopes
   
 - **<u>DONT GIVE ADMINISTRATOR, BECAUSE IF TOKEN LEAKED YOU CAN FUCKED UP YOUR SERVER</u>**
   
